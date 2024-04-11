@@ -1,4 +1,4 @@
-# CFST_af_prediction
+# Real-time axial force prediction of CFST columns under real fire based on modular artificial intelligence
 Datasets and codes for "Real-time axial force prediction of CFST columns under real fire based on modular artificial intelligence"
 
 **dataset:**
